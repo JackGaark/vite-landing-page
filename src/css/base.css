@@ -26,7 +26,7 @@ body {
   color: var(--color-text);
   background-color: var(--color-bg);
   text-transform: uppercase;
-  font-family: acumin-pro, sans-serif;
+  font-family: HK-Grotesk-Bold, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -230,7 +230,7 @@ main {
 }
 
 .item__title {
-  font-family: kudryashev-d-excontrast-sans, sans-serif;
+  font-family: HK-Grotesk-Bold, sans-serif;
   font-weight: 300;
   font-size: 2rem;
   margin-bottom: 0.5rem;
@@ -344,7 +344,7 @@ main {
   line-height: 0.7;
   font-size: clamp(2rem, 18vw, 15rem);
   white-space: nowrap;
-  font-family: kudryashev-d-excontrast-sans, sans-serif;
+  font-family: HK-Grotesk-Bold, sans-serif;
   font-weight: 300;
   justify-self: center;
   align-self: center;
