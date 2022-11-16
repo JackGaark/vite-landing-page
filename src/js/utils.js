@@ -1,4 +1,4 @@
-const imagesLoaded = require("imagesloaded");
+import * as imagesLoaded from "imagesloaded";
 
 /**
  * Preload images
